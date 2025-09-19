@@ -4,6 +4,7 @@ A sleek, terminal-themed web application for encrypting and decrypting text usin
 Live Demo -> https://aes-encryptions.netlify.app/
 
 
+
 ✨ Features
 Strong Encryption: Utilizes the robust AES algorithm via the CryptoJS library for secure text encryption.
 
@@ -18,6 +19,8 @@ Themed UI: A cool "hacker terminal" aesthetic that makes securing your data feel
 Clipboard Integration: Easily copy the encrypted or decrypted text to your clipboard with a single click.
 
 
+
+
 💻 Tech Stack
 HTML5: For the core structure and content of the application.
 
@@ -26,6 +29,8 @@ CSS3: For custom styling, animations, and the responsive terminal theme.
 JavaScript (ES6+): For all the application logic, including DOM manipulation and event handling.
 
 CryptoJS Library: A powerful JavaScript library of cryptographic standards, used here for the AES implementation.
+
+
 
 
 🚀 Getting Started
@@ -37,6 +42,8 @@ Navigate to the project directory
 
 Open in browser:
 Simply open the index.html file in your favorite web browser. No special server or dependencies are required
+
+
 
 
 🛠️ How to Use
@@ -67,6 +74,8 @@ To Load a Message:
 Click the dropdown menu (> Select saved data...).
 
 Choose the tag of the message you want to load. The encrypted ciphertext will automatically be placed in the Input_Text field, ready for decryption.
+
+
 
 
 📄 License
